@@ -1,2 +1,3 @@
 https://github.com/ustunb/miplib2017-slim
 http://plato.asu.edu/ftp/milp_res1/benchmark.scip.1threads.7200s.res
+https://acta.mendelu.cz/media/pdf/actaun_2015063061923.pdf
